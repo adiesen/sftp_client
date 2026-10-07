@@ -1,0 +1,2 @@
+[console_scripts]
+sftp-client = sftp_client.cli:main
